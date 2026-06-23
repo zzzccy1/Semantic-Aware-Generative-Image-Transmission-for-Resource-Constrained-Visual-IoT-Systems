@@ -1,4 +1,4 @@
-# Halton-MaskGIT
+#SAGI
 
 Official implementation of Halton-MaskGIT: Masked Generative Image Transformer with Halton Sequence Sampling.
 
